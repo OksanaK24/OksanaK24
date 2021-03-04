@@ -23,7 +23,8 @@ I do believe that hard doesn't mean impossible. Everything is possible.
 - SQLite
 - SASS
 
-Here is my [LinkedIn](https://www.linkedin.com/in/oksana-kril/)
+Here is my [LinkedIn](https://www.linkedin.com/in/oksana-kril/) 
+
 Feel free to contact me =)
 
 <!--
