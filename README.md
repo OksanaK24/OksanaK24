@@ -1,6 +1,7 @@
 ## Hello-hello 👋
 
 I'm just a Ukrainian girl who started her life in the USA a few years ago. I like to set goals and achieve them. Study programming was one of them. 
+
 I do believe that hard doesn't mean impossible. Everything is possible.
 
 ### Human languages I speak:
